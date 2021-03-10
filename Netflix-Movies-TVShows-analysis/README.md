@@ -1,7 +1,7 @@
 ## Netflix Data Analysis on TV Shows and Movies
 
-*This is the Capstone Project of course [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) by [jovian.ai](https://jovian.ai) in collabration with freecodecamp. *
-I am greatful to be a part of this course as it is well-structured with such a stimulating community.
+*This is the Capstone Project of course [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) by [jovian.ai](https://jovian.ai) in collabration with freecodecamp.*
+*I am greatful to be a part of this course as it is well-structured with such a stimulating community.*
 
 **About Project :**
 
