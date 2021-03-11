@@ -10,7 +10,7 @@ Also I have looked at data from customers that already have churned (response) a
 **This Project is divided in 5 setps:**
 - Understanding the Problem Statement
 - Loading and understanding the data 
-- EDA and Data Pre-processing
+- EDA and Data Manipulation
 - Modelling 
 - Model evaluation and generate insights
 
