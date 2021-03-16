@@ -1,6 +1,6 @@
 ## Insurance Cost Prediction
 
-*This Project is the part of course [Deep Learning with Pytorch: Zero to GANS](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) by [jovian.ai](https://jovian.ai) in collabration with freecodecamp.*
+*This Project was the part of course [Deep Learning with Pytorch: Zero to GANS](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) by [jovian.ai](https://jovian.ai) in collabration with freecodecamp.*
 
 ### Overview
 
