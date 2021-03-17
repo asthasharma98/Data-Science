@@ -1,6 +1,6 @@
 ## Intel Image Classification 
 
-This was the capstone Project of Course [Deep Learning with PyTorch: Zero to GANS](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) by [jovian.ai](https://jovian.ai) in collabration with freecodecamp.*
+*This was the capstone Project of Course [Deep Learning with PyTorch: Zero to GANS](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) by [jovian.ai](https://jovian.ai) in collabration with freecodecamp.*
 
 ### Overview
 
