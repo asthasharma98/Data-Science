@@ -4,7 +4,7 @@
 
 ### Overview
 
-In this Project I've used Intel Image dataset for classification problem. The task was to classify the given images and train a model to predict any previously unseen images which belongs to one of the classes with maximum accuracy using deep neural network, CNN and ResNets architecture (In this used ResNet9).
+In this Project I've used Intel Image dataset for classification problem. The task was to classify the given images and train the model to predict any previously unseen images which belongs to one of the classes with maximum accuracy using deep neural network, CNN and ResNets architecture (In this used ResNet9).
 
 **The Project consist of following steps :**
 
