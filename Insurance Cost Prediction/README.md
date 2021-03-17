@@ -28,3 +28,14 @@ To run the code on your computer locally, you'll need to set up [Python](https:/
 
 **Jupyter Notebooks:**[Jupyter notebook](https://jupyter.org/) - a document made of cells. Each cell can contain code written in Python or explanations in plain English. You can execute code cells and view the results, e.g., numbers, messages, graphs, tables, files, etc. instantly within the notebook. Jupyter is a powerful platform for experimentation and analysis. mess around with the code & break things - you'll learn a lot by encountering and fixing errors. You can use the "Kernel > Restart & Clear Output" or "Edit > Clear Outputs" menu option to clear all outputs and start again from the top.
 
+### Libraries used 
+
+
+- **Pandas** - [Pandas](https://pandas.pydata.org/) is a Software library written for data manipulation and analysis in Python. Offers data structures and operations for manipulating numerical tables and time series.
+
+- **Numpy** - [Numpy](https://numpy.org/) is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+- **Matplotlib** - [Matplotlib](https://matplotlib.org/) Python 2D plotting Data visualization library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. 
+
+- **Pytorch** - [PyTorch](https://pytorch.org/) is an open source machine learning library based on the Torch library that facilitates building deep learning projects with strong GPU acceleration.
+
