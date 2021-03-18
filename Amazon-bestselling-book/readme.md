@@ -1,5 +1,7 @@
 ## Data Analysis on Amazon Top 50 Bestsellers
 
+![Amazon-bestsellers](https://github.com/asthasharma98/Data-Science/blob/main/Amazon-bestselling-book/amazon.jpg)
+
 ### Overview
 
 This is simple Exploratory data analysis Project to extract some hidden trends and patterns in the dataset that could help business model to grow such as best selling genres,Relationship between price and user rating etc. Such insights have a great business value since knowing what is selling and what is not, the company can focus their marketing strategies to improve overall sales, customer might perceive a genre too expensive so they give a low rating or books with high ratings and low sells might not be visible to other customers. In this I have loaded and read the data using pandas, did some cleaning and Processing of data and explored the dataset through visualizations and graphs using matplotlib and seaborn and finally answerd some questions related to dataset.
