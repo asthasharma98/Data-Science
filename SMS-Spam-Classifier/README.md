@@ -4,7 +4,7 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 
-<img src="https://github.com/asthasharma98/Data-Science/blob/main/SMS-Spam-Classifier/spam_classification.jpg" width="500" height="250">
+<img src="https://github.com/asthasharma98/Data-Science/blob/main/SMS-Spam-Classifier/spam_classification.jpg" width="70%" height="50%">
 
 ### Overview:
 
