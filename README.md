@@ -7,3 +7,10 @@ EDA
 - Analysis of Best Selling book 
 - Netflix TV shows and Movies Analysis 
 
+Machine Learning 
+
+- Insurance Cost Prediction 
+- Customer churn Prediction 
+- Heart Disease Prediction 
+- Spam SMS classifier 
+- Intel Image CLassification 
