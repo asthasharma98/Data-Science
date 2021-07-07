@@ -7,7 +7,7 @@ EDA
 - Analysis of Best Selling book 
 - Netflix TV shows and Movies Analysis 
 
-Machine Learning 
+Machine Learning and deep learning 
 
 - Insurance Cost Prediction 
 - Customer churn Prediction 
