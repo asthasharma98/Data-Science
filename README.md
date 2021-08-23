@@ -6,6 +6,7 @@ EDA
 
 - Analysis of Best Selling book 
 - Netflix TV shows and Movies Analysis 
+- Covid-19 Data Analysis and visualization 
 
 Machine Learning and deep learning 
 
